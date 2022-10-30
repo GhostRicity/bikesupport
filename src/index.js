@@ -4,14 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-//gtm
-import TagManager from 'react-gtm-module';
-//Cookeibot
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-const tagManagerArgs = {gtmId: 'GTM-PNZTPLWv'};
-
-TagManager.initialize(tagManagerArgs);
 
 const app = document.getElementById('app');
 
