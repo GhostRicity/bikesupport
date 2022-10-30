@@ -16,20 +16,13 @@ function App() {
         </p>
         <p>Bikes need support to</p>
         <View style={{ flex: 1, alignItems: 'center' }}>
-      <CookieBot domainGroupId={domainGroupId} />
-          <Text>Click to test Cookiebot</Text>
-          <Button title="TEST" onPress={() => setHasCookieBot(!!document.querySelector('#CookieBot'))} />
-          <Text style={{ color: 'red', marginVertical: 10 }}>
-            {hasCookieBot && `Has CookieBot: ${JSON.stringify(hasCookieBot)}`}
-          </Text>
-        </View>    <View style={{ flex: 1, alignItems: 'center' }}>
           <CookieBot domainGroupId={domainGroupId} />
           <Text>Click to test Cookiebot</Text>
           <Button title="TEST" onPress={() => setHasCookieBot(!!document.querySelector('#CookieBot'))} />
           <Text style={{ color: 'red', marginVertical: 10 }}>
             {hasCookieBot && `Has CookieBot: ${JSON.stringify(hasCookieBot)}`}
           </Text>
-    </View>
+        </View>
       </header>
     </div>
   );
