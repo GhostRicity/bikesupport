@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.bsmain{
+  transform: rotate(10deg);
+}
+
+.bs{
+  color:#282c34;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rgb(250, 250, 250); 
+}
+
+.bs2{
+  color: azure;
+}
