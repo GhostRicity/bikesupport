@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/http//:GhostRicity.github.io/bikesupport/static/css/main.073c9b0a.css",
-    "main.js": "/http//:GhostRicity.github.io/bikesupport/static/js/main.b8d36d30.js",
-    "static/js/787.25a64fe4.chunk.js": "/http//:GhostRicity.github.io/bikesupport/static/js/787.25a64fe4.chunk.js",
-    "static/media/logo.svg": "/http//:GhostRicity.github.io/bikesupport/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/http//:GhostRicity.github.io/bikesupport/index.html",
-    "main.073c9b0a.css.map": "/http//:GhostRicity.github.io/bikesupport/static/css/main.073c9b0a.css.map",
-    "main.b8d36d30.js.map": "/http//:GhostRicity.github.io/bikesupport/static/js/main.b8d36d30.js.map",
-    "787.25a64fe4.chunk.js.map": "/http//:GhostRicity.github.io/bikesupport/static/js/787.25a64fe4.chunk.js.map"
+    "main.css": "/bikesupport/static/css/main.b99f7dce.css",
+    "main.js": "/bikesupport/static/js/main.e7bc7b72.js",
+    "static/js/787.25a64fe4.chunk.js": "/bikesupport/static/js/787.25a64fe4.chunk.js",
+    "static/media/gear.svg": "/bikesupport/static/media/gear.28d295599198bbc80f149083dd45d3ed.svg",
+    "index.html": "/bikesupport/index.html",
+    "main.b99f7dce.css.map": "/bikesupport/static/css/main.b99f7dce.css.map",
+    "main.e7bc7b72.js.map": "/bikesupport/static/js/main.e7bc7b72.js.map",
+    "787.25a64fe4.chunk.js.map": "/bikesupport/static/js/787.25a64fe4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b8d36d30.js"
+    "static/css/main.b99f7dce.css",
+    "static/js/main.e7bc7b72.js"
   ]
 }
